@@ -1,22 +1,48 @@
 # Hola, soy Fernando Taladriz 👋
-[//]: # (<img src="https://raw.githubusercontent.com/nelcarca/nelcarca/master/gh-header-tecnology.jpg" alt="banner Nelson Carvajal, software engineer">)
-un apasionado Desarrollador Full Stack, Ingeniero Comercial y MBA con experiencia
-en gestión empresarial, estrategia comercial, y desarrollo de negocios. Además, me destaco como Coach,
-lo que me ha permitido liderar equipos de alto rendimiento y fomentar ambientes colaborativos y motivadores.
-## Acerca de mí (About Me)
-- 💼 Desarrollador, fullstack developer.
-- 🚀 Amante por la tecnología y la programación. Passionate about technology and programming.
-- 👨‍💻 Siempre buscando aprender y crecer. Always seeking to learn and grow.
-- 🤝 Entusiasta de la colaboración y el trabajo en equipo. Enthusiastic about collaboration and teamwork.
-- 🎯 Orientado a resultados y metas cumplidas. Goal-oriented and results-driven.
-- 🧐 Curioso y siempre en busca de conocimiento. Curious and eager to continually learn.
-## Mis Habilidades (My Skills)
-- 💻 Desarrollo web Full Stack.- Full Stack web development.
-- 🌐 Conocimientos en Java, Spring, Python, Django, Django Rest Framework, Javascript, Vue, Nuxt, React. 
-Knowledge in Java, Spring , Python, Django, Django Rest Framework, Javascript, Vue, Nuxt, React.
-- 🖥️ Experiencia en desarrollo de aplicaciones web. Experience in web application development.
-- 📱 Desarrollo web, manejo de framework Vue, Nuxt y React. Web design and development, management of Vue, Nuxt and React framework.
-- 📱 Diseño, manejo de Photoshop, Illustrator and Canvas. Web design, management of Photoshop, Illustrator and Canvas.
-- ⚙️ Resolución de problemas y desarrollo de soluciones. Problem-solving and solution development.
-## Contacto (Contact)
-¡Me encantaría conectarme contigo! Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/fernandotaladriz).
+
+## 💼 Desarrollador Full Stack | Ingeniero Comercial | MBA | Coach
+
+Un apasionado profesional que combina expertise técnico con habilidades de gestión empresarial. Me destaco por
+liderar equipos de alto rendimiento y crear ambientes colaborativos que impulsan la innovación y el crecimiento.
+
+## 🚀 Acerca de mí
+
+- 💻 Desarrollador Full Stack con experiencia en aplicaciones web modernas
+- 📊 Ingeniero Comercial con MBA y background en estrategia comercial
+- 👥 Coach especializado en desarrollo de equipos de alto rendimiento
+- 🎯 Orientado a resultados y mejora continua
+- 🌱 Aprendizaje constante y adaptación a nuevas tecnologías
+
+## 🛠️ Stack Tecnológico
+
+### Backend
+- Java & Spring Framework
+- Python & Django
+- Django Rest Framework
+
+### Frontend
+- JavaScript/TypeScript
+- Vue.js & Nuxt.js
+- React
+
+### Diseño
+- Adobe Photoshop
+- Adobe Illustrator
+- Canvas
+
+## 💪 Competencias Clave
+
+- 📈 Gestión de Proyectos
+- 🤝 Liderazgo de Equipos
+- 💡 Pensamiento Estratégico
+- 🔄 Metodologías Ágiles
+- 🎯 Desarrollo de Negocios
+- 🗣️ Coaching y Mentoring
+
+## 📫 Conecta Conmigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fernando_Taladriz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernandotaladriz)
+
+---
+
+💬 *"El éxito en la tecnología no solo se trata de código, sino de personas y estrategia"*
