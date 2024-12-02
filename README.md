@@ -8,7 +8,6 @@ lo que me ha permitido liderar equipos de alto rendimiento y fomentar ambientes 
 - 🚀 Amante por la tecnología y la programación. Passionate about technology and programming.
 - 👨‍💻 Siempre buscando aprender y crecer. Always seeking to learn and grow.
 - 🤝 Entusiasta de la colaboración y el trabajo en equipo. Enthusiastic about collaboration and teamwork.
-[//]: # (- 📊 Experiencia en metodologías Scrum. Experience with Scrum methodologies.)
 - 🎯 Orientado a resultados y metas cumplidas. Goal-oriented and results-driven.
 - 🧐 Curioso y siempre en busca de conocimiento. Curious and eager to continually learn.
 ## Mis Habilidades (My Skills)
